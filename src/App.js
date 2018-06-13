@@ -8,7 +8,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1> Nokia Open Source Smart City project | modified not working and unofficial version by jani </h1> 
+        <h1> Nokia Open Source Smart City project | It works!</h1> 
 
         <MapContainer google={this.props.google} />
       </div>
